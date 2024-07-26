@@ -20,7 +20,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>Hello, React</h1>
+      <h1>Increment and Decrement Counter App</h1>
       <h3>{count}</h3>
       <button onClick={Increment}>Increment</button>
       <button onClick={Decrement}>Decrement</button>
